@@ -1,0 +1,4 @@
+#Sun Jul 07 00:19:14 BRT 2019
+base.0=D\:\\Users\\marth\\AndroidStudioProjects\\SomdosBichos2\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\7
+path.0=classes.dex
+renamed.0=classes.dex
